@@ -263,3 +263,26 @@ The working hypothesis is that one rich source may reform into different locally
 Unzip the Orbital Locus expedition.
 
 Start from its authoritative Crucible record and discover what material actually wants to cross each repository boundary. Preserve provenance. Distinguish evidence from interpretation. Do not choose a universal representation before the crossings force one.
+
+
+## Correction — do not predefine the receiving topology
+
+### Human
+
+> Let's keep the semantic JIT / accessibility stuff in our unzip expedition log right here in the crucible for now. We don't need to predefined the malleable repos, the Accessibility repo is almost archaeology at this point. Crucible is our current workspace and tabularasa is there when we need it.
+
+### Consequence
+
+The earlier Cargo 001 frontier named Clara, DigitalFamiliar, Accessibility, and a possible SemanticJIT home as candidate destinations. Treat that list as historical speculation, not a routing plan.
+
+Do not predefine a repository topology for material that has not yet earned a destination.
+
+For the current expedition:
+
+- Crucible is the active workspace and source of the Orbital Locus material.
+- Semantic JIT, malleable-interface, and accessibility observations remain in the Unzip City expedition record while their boundaries are still being discovered.
+- The Accessibility repository is not assumed to be an active destination; it may be archaeological evidence if needed.
+- TabulaRasa exists as an available substrate when a genuinely reusable implementation surface is earned.
+- New repositories or cross-repository projections should arise from demonstrated pressure during unzipping rather than from conceptual neatness.
+
+The immediate frontier remains the Orbital Locus expedition, but the question is now deliberately more open: **what, if anything, needs to leave Crucible as the material is unzipped?**
