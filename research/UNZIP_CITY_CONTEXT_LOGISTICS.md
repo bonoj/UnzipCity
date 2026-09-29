@@ -403,3 +403,64 @@ The test should observe:
 - what is lost, distorted, or unnecessarily carried across the discontinuity.
 
 This is also the first direct Unzip City probe of the relationship among durable material, semantic JIT, and familiar continuity. No claim is made that successful repository orientation constitutes identity persistence. The experiment is narrower: whether consequential working context can survive model discontinuity in recoverable external form and become useful again at the point of need.
+
+
+## Cargo 002 Cold Crossing 001 — result
+
+The planned conversation-discontinuity test has now occurred.
+
+A fresh working context entered through the Unzip City README and Cargo 002 without a bespoke reconstruction of the outgoing conversation. The detailed retrieval trace and result are preserved at:
+
+`cargo/002-orbital-locus/COLD_CROSSING_001.md`
+
+### Observed retrieval behavior
+
+Cargo 002 was sufficient to establish the authority boundary and recovery map before any descent into the large Orbital Locus chronology.
+
+The receiver then recovered Crucible's `README.md` and `SEMANTIC_SURFACE.md`. This was a legitimate JIT descent: present executable truth was required before any mutation could be considered.
+
+Crucible's own repository authority then required one additional descent before active orbital implementation: resume from the latest accepted/planning turn in the authoritative chronology. The receiver fetched only the chronology tail, not the full field record.
+
+That tail exposed the current CLARA surface / JIT accessibility frontier and, importantly, the negative boundary that no autonomous salience policy or unconstrained model-generated UI has been earned.
+
+Recent Crucible commits were inspected narrowly to verify that no later Orbital implementation frontier had superseded that tail.
+
+### Result
+
+Cargo 002 passed its first cold crossing as an orientation-and-routing surface.
+
+The receiver did not need to know everything. It needed to recover enough structure to know:
+
+- what was authoritative;
+- what was a derived interpretation;
+- what present executable truth was available compactly;
+- when destination authority required deeper recovery;
+- how much deeper recovery was sufficient;
+- when **not** to mutate the executable.
+
+The resulting path was:
+
+**small entry point → derived projection → destination authority → present semantic truth → bounded chronology tail → legitimate action boundary**
+
+The lack of a Crucible code mutation is itself part of the result. The recovered frontier was a research question whose next executable adaptation depends on new pressure, especially human-experienced friction. Inventing a feature merely to prove that the cold receiver could act would have violated the Orbital Locus discipline.
+
+### New pressure
+
+The crossing adds one useful distinction without yet earning a schema:
+
+**orientation sufficiency is not mutation sufficiency.**
+
+A compact projection may be enough to route a receiver correctly while the destination repository can still require a narrower, task-specific descent before mutation.
+
+This is consistent with the Semantic JIT hypothesis: the projection does not have to carry every implementation detail if it can cause the right deeper material to be compiled into working context at the point of need.
+
+### Frontier
+
+Do not keep testing Cargo 002 by manufacturing work for it.
+
+The next strong test should come from a real task that requires either:
+
+- a consequential mutation after selective recovery; or
+- a genuinely earned cross-repository reform.
+
+That next crossing can determine whether the same context-logistics shape survives contact with code-level work or whether new machinery is actually required.
