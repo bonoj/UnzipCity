@@ -20,6 +20,8 @@ Its first act was **Cargo 001**: receiving the expedition record from Crucible w
 
 Crucible remains authoritative for the expedition's birth record at the source deposit. Unzip City owns continuation from the crossing onward.
 
-The next work should continue empirically: unzip real material, preserve recoverability, observe what a receiving model actually needs, and let repeated successful crossings earn architecture.
+Cargo 002 then reformed the Orbital Locus chronology into a deliberately lossy cold-orientation projection. Its first conversation-discontinuity crossing succeeded: the receiver recovered Crucible authority, descended selectively into present semantic truth and only the chronology tail required by destination authority, and stopped short of inventing an unearned executable mutation. The retrieval trace is preserved with Cargo 002.
+
+The next work should continue empirically: let a real consequential mutation or genuinely earned cross-repository reform supply the next pressure. Preserve recoverability, observe what a receiving model actually needs, and let repeated successful crossings earn architecture.
 
 Do not turn this README into a substitute for the expedition record.
