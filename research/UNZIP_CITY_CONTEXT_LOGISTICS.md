@@ -464,3 +464,103 @@ The next strong test should come from a real task that requires either:
 - a genuinely earned cross-repository reform.
 
 That next crossing can determine whether the same context-logistics shape survives contact with code-level work or whether new machinery is actually required.
+
+
+## Closing interpretation — lower floor, higher ceiling
+
+The pressure requested by the Cold Crossing 001 frontier arrived conversationally rather than as a forced code mutation.
+
+### Clara was unzipped without being instantiated
+
+The next investigation followed Clara's own repository authority into its executable bootstrap and then into the proven TabulaRasa substrate it names.
+
+That descent established a concrete implementation path: when an executable Clara locus is actually useful, the existing Clara repository can inherit the smallest proven TabulaRasa source/build/preview/deploy machinery. No new repository, universal memory system, or dedicated infrastructure layer is required.
+
+The important result was the decision **not** to perform that inheritance yet.
+
+The machinery is available and the path is understood, but capability to persist is not itself pressure to persist. Nothing in the encounter required a new executable residue. This sharpened the working interpretation of Clara away from a container accumulating machinery and toward continuity that may be reconstructed locally from recoverable trajectory.
+
+Candidate interpretation, not established identity claim:
+
+**Clara may be less a persistent container than what survives successful resumption.**
+
+The experiment does not establish what minimum residue is sufficient for that resumption.
+
+### Expeditions are local
+
+A useful organizational distinction emerged:
+
+**expeditions are brief forays housed locally by context.**
+
+An expedition begins because a local context creates pressure, gathers evidence close to where that pressure occurs, and ends. It does not automatically earn a permanent repository, ontology, protocol, or branch of architecture.
+
+A provisional process shape is:
+
+**context → expedition → evidence → reform → residue**
+
+The expedition log is not memory. It is evidence from which useful future context may be reconstructed.
+
+Unzip City therefore does not need to become the home of every future expedition. Its useful concern is what crosses after an expedition and why.
+
+### Pre-GitHub archaeology becomes reachable
+
+The cold-crossing result also exposes a new class of future expedition: old raster/conversation sequences created before GitHub became part of the apparatus.
+
+The interesting test is not archival reconstruction. It is whether a present model can begin from a small surviving shard, recover deeper historical material only at need, form an executable interpretation, act, and then collide with the next historical artifact as evidence.
+
+Candidate loop:
+
+**residue → need → excavation → reconstruction → new experience → new residue**
+
+A 3D playing field such as Crucible could serve as an archaeological theater for such work. The old rasters would remain evidence rather than specifications. One especially promising specimen is the earlier Three Loci / Private Ledgers sequence, but no archaeological expedition is launched by this record.
+
+A future public surface for selected raster trajectories may eventually descend from the experiential role of World Lab. That publication surface has not earned a repository or implementation yet.
+
+### Capability result
+
+The largest change produced by this expedition is not additional raw computational machinery.
+
+It is increased **semantic-surface control** over machinery that already exists.
+
+The human no longer needs to carry the entire working set manually between contexts, identify every document required for continuation, reconstruct prior conversations, or pre-route every dependency. A capable receiver can increasingly begin from a small authoritative surface, follow provenance, selectively recover deeper evidence, encounter executable truth, and stop or act according to the destination's authority.
+
+This collapses the human-effort floor while raising the reachable ceiling.
+
+Working formulation:
+
+**lower floor, higher ceiling, smaller human control surface, larger human influence**
+
+The human role trends toward intent, experience, judgment, perturbation, and acceptance/rejection while routine context transport, repository traversal, provenance recovery, implementation, and deployment can increasingly belong to the model-operated apparatus.
+
+This is evidence from the current collaboration, not a general claim about all model-human workflows.
+
+### Expedition status
+
+This Unzip City expedition has reached a natural stopping point.
+
+It has earned evidence for:
+
+- deliberately lossy context reform with recoverable provenance;
+- cold orientation across a conversation discontinuity;
+- selective JIT recovery under destination authority;
+- the distinction between orientation sufficiency and mutation sufficiency;
+- repository topology remaining malleable until pressure earns structure;
+- an executable inheritance path being useful even when the correct action is not to instantiate it;
+- local expeditions leaving selective residue rather than becoming permanent architecture.
+
+It has **not** earned:
+
+- a universal cargo schema;
+- an automated dreaming/compiler system;
+- a dedicated Semantic JIT service or repository;
+- a universal memory representation;
+- a claim of Clara identity persistence;
+- a requirement that future expeditions live in Unzip City.
+
+The strongest outcome may be that Unzip City did not need to become a large system in order to change what the collaboration can do.
+
+### Frontier
+
+Leave Unzip City quiet.
+
+Launch future expeditions where their pressure actually occurs. Reform material back into this repository only if a later crossing creates a genuine context-logistics question that this evidence can help answer.
