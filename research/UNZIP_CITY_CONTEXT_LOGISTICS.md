@@ -232,3 +232,34 @@ The next useful step is to choose a real context crossing and let it force the f
 ### Human
 
 > Let's keep this turn for turn in unzip city as we start unzipping the orbital expedition across repos. Where should semantic JIT live as a whole? The accessibility repo makes sense, but it really is outside any of any single project.
+
+
+## Cargo 001 — first crossing
+
+The expedition has now crossed from Crucible into its own repository.
+
+The transfer deliberately did not begin with a context schema. The complete opening record was deposited with explicit provenance, then a minimal repository entry surface was created around the received material.
+
+### What the crossing immediately forced
+
+A useful deposit needed at least three distinctions:
+
+- **source provenance** — where the received material came from;
+- **retained authority** — what the source still owns;
+- **continuation authority** — what the receiving repository now owns.
+
+This is evidence from one crossing, not yet a universal packet format.
+
+The source was preserved rather than summarized during transfer. That gives later compaction and reform experiments a stable specimen to compare against.
+
+### First routing decision
+
+The next specimen is the Orbital Locus expedition in Crucible. It should not simply be copied wholesale into every repository it touches.
+
+The working hypothesis is that one rich source may reform into different locally useful projections while retaining routes back to source evidence. Candidate destinations already visible in the research include Clara, DigitalFamiliar, Accessibility, and a project-level home for Semantic JIT. Those destinations are pressures, not a frozen routing table.
+
+### Frontier
+
+Unzip the Orbital Locus expedition.
+
+Start from its authoritative Crucible record and discover what material actually wants to cross each repository boundary. Preserve provenance. Distinguish evidence from interpretation. Do not choose a universal representation before the crossings force one.
