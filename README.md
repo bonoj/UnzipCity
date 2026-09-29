@@ -22,6 +22,8 @@ Crucible remains authoritative for the expedition's birth record at the source d
 
 Cargo 002 then reformed the Orbital Locus chronology into a deliberately lossy cold-orientation projection. Its first conversation-discontinuity crossing succeeded: the receiver recovered Crucible authority, descended selectively into present semantic truth and only the chronology tail required by destination authority, and stopped short of inventing an unearned executable mutation. The retrieval trace is preserved with Cargo 002.
 
-The next work should continue empirically: let a real consequential mutation or genuinely earned cross-repository reform supply the next pressure. Preserve recoverability, observe what a receiving model actually needs, and let repeated successful crossings earn architecture.
+The first expedition is now closed. Its strongest result is not a new context format but a changed collaboration surface: a receiver can begin small, follow authority and provenance, recover deeper context only at need, and stop without manufacturing work. This lowers the human-effort floor while increasing the semantic and executable ceiling.
+
+Future expeditions should remain local to the context that creates them. Unzip City can stay quiet until a later crossing creates a genuine context-logistics question worth reforming here.
 
 Do not turn this README into a substitute for the expedition record.
