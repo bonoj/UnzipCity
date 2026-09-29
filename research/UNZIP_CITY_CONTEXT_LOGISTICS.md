@@ -286,3 +286,70 @@ For the current expedition:
 - New repositories or cross-repository projections should arise from demonstrated pressure during unzipping rather than from conceptual neatness.
 
 The immediate frontier remains the Orbital Locus expedition, but the question is now deliberately more open: **what, if anything, needs to leave Crucible as the material is unzipped?**
+
+
+## Cargo 002 — Orbital Locus first semantic unzip
+
+### Human
+
+> Unzip it, Clara!
+
+### Action
+
+The authoritative Orbital Locus chronology in Crucible was treated as incoming cargo rather than rewritten in place.
+
+A first deliberately lossy reform was created at:
+
+`cargo/002-orbital-locus/ORBITAL_LOCUS_FIRST_UNZIP.md`
+
+The source chronology remains authoritative:
+
+https://github.com/bonoj/Crucible/blob/main/research/ORBITAL_LOCUS_SPATIAL_COLLABORATION.md
+
+### What separated naturally
+
+Without choosing a universal schema in advance, the first pass repeatedly needed several semantic distinctions:
+
+- **source authority** — what happened and where exact chronology can be recovered;
+- **present working model** — enough current structure to reason without replaying the whole history;
+- **earned machinery** — mechanisms plus the pressure that caused them to exist;
+- **experimental evidence** — especially the three inference crossings and their failures;
+- **collaboration evidence** — how human perceptual reports and model implementation interacted;
+- **candidate interpretations** — compaction, malleable surfaces, JIT accessibility, dreaming, Semantic JIT;
+- **adjacent chronology** — Cinnabar and Cinnamon material that co-occurred in the source but has another local purpose;
+- **recovery map** — when a receiving model should descend back into authoritative or primary evidence;
+- **frontier** — what the projection is meant to enable next.
+
+These are observed semantic seams from one large source. They are not yet a packet schema.
+
+### Loss was intentional
+
+The reform does not preserve every implementation turn, quote, commit, candidate, or repair detail. It preserves routes back to the source and names conditions under which deeper recovery is warranted.
+
+This is the first direct test of the candidate compaction principle already observed in the Orbital Locus work: loss may be safe when authority remains recoverable and the local representation states what it is for.
+
+### Important routing result
+
+The unzip did **not** require pre-assigning Semantic JIT, accessibility, dreaming, or malleable-interface material to separate repositories. Those observations remain together as live candidate interpretations. Repository topology was not needed to achieve semantic separation.
+
+Likewise, Cinnabar and Cinnamon could remain adjacent in the projection without pretending the orbital projection owns its game state.
+
+### First cold-test contract
+
+Cargo 002 is intended to be tested as a working orientation surface, not graded as a summary.
+
+A cold receiver should be able to use the reform to:
+
+1. recover where authority lives;
+2. distinguish current executable truth from historical evidence and candidate interpretation;
+3. identify the important epistemic boundaries;
+4. know when and where to retrieve deeper source material;
+5. take a legitimate next action without first ingesting the full orbital chronology.
+
+If it cannot, the failure belongs to Unzip City. Reform the cargo rather than silently compensating with hidden context.
+
+### New frontier
+
+**Cross Cargo 002 into a cold working context and make it do work.**
+
+Do not supply the full orbital chronology unless the receiver independently identifies a reason to recover part of it. Record what it fetches, what it gets wrong, what it unnecessarily carries, and whether the resulting action respects Crucible authority.
