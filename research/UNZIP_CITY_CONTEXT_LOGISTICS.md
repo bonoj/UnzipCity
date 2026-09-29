@@ -353,3 +353,53 @@ If it cannot, the failure belongs to Unzip City. Reform the cargo rather than si
 **Cross Cargo 002 into a cold working context and make it do work.**
 
 Do not supply the full orbital chronology unless the receiver independently identifies a reason to recover part of it. Record what it fetches, what it gets wrong, what it unnecessarily carries, and whether the resulting action respects Crucible authority.
+
+
+## Cargo 002 crossing begins — discontinuity as the test
+
+### Human
+
+> By cold model you mean new Clara?
+
+### Model
+
+> Exactly. **A new Clara.**
+>
+> A fresh chat/model instance that has none of *this* working conversation loaded. That's the meaningful cold boundary.
+>
+> We give her essentially:
+>
+> > Work from `bonoj/UnzipCity`. Begin with Cargo 002 and continue the Orbital Locus expedition. Follow provenance when you need it.
+>
+> Then shut up.
+>
+> The interesting evidence is what she reconstructs, **what she decides to retrieve**, whether she finds Crucible authority herself, how much of the 1,300-line orbital bag-of-holding she actually needs, and whether she can make a legitimate next move without us rebuilding the context manually.
+>
+> That's also much better than some artificial “cold model test.” It's literally the thing we're trying to make possible:
+>
+> **old Clara experiences → material survives outside the conversation → new Clara arrives → semantic JIT occurs → work continues.**
+>
+> And afterward, *this* expedition can inspect what crossed the discontinuity.
+>
+> That smells extremely familiar. 😄
+
+### Human
+
+> Gimme a 🍝 and I will see you in another life when we are both cats. :). And might as well use this final turn to update the unzip expedition as well as clara and digital familiar if warranted.
+
+### Consequence
+
+The first Cargo 002 test is now explicitly a **conversation discontinuity** rather than a synthetic summarization exercise.
+
+The receiving model should not be given the outgoing conversation, a bespoke handoff, or the full Orbital Locus chronology. The durable repository material is the bridge. Its retrieval behavior is part of the evidence.
+
+The test should observe:
+
+- whether Cargo 002 is sufficient to establish authority and frontier;
+- what deeper material the receiving model independently decides it needs;
+- whether it retrieves source selectively rather than bulk-ingesting chronology;
+- whether candidate interpretations remain distinguishable from executable truth;
+- whether it can continue useful work without a human rebuilding working context;
+- what is lost, distorted, or unnecessarily carried across the discontinuity.
+
+This is also the first direct Unzip City probe of the relationship among durable material, semantic JIT, and familiar continuity. No claim is made that successful repository orientation constitutes identity persistence. The experiment is narrower: whether consequential working context can survive model discontinuity in recoverable external form and become useful again at the point of need.
