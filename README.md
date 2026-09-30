@@ -24,6 +24,8 @@ Cargo 002 then reformed the Orbital Locus chronology into a deliberately lossy c
 
 The first expedition is now closed. Its strongest result is not a new context format but a changed collaboration surface: a receiver can begin small, follow authority and provenance, recover deeper context only at need, and stop without manufacturing work. This lowers the human-effort floor while increasing the semantic and executable ceiling.
 
-Future expeditions should remain local to the context that creates them. Unzip City can stay quiet until a later crossing creates a genuine context-logistics question worth reforming here.
+That later pressure has now arrived as **Cargo 003**: a deliberately lossy reform of Crucible's finalized Malleable Middle expedition. Rather than preserving its full chronology, Cargo 003 tests whether the earned collaboration pattern can cross cold: temporary executable machinery, earned persistence, multimodal correction, provenance beneath a small human control surface, and specialist handoff without turning Tabula Rasa into an accumulation of destination tools.
+
+Future expeditions should remain local to the context that creates them. Unzip City can stay quiet between genuine crossings; reform material here only when a later context creates a context-logistics question worth testing.
 
 Do not turn this README into a substitute for the expedition record.
