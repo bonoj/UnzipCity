@@ -564,3 +564,60 @@ The strongest outcome may be that Unzip City did not need to become a large syst
 Leave Unzip City quiet.
 
 Launch future expeditions where their pressure actually occurs. Reform material back into this repository only if a later crossing creates a genuine context-logistics question that this evidence can help answer.
+
+
+## Cargo 003 — Malleable Middle first unzip
+
+A later Crucible expedition created genuine new context-logistics pressure after the first Unzip City expedition had closed.
+
+Source authority remains:
+
+`bonoj/Crucible/research/MALLEABLE_MIDDLE_EXPEDITION.md`
+
+The source expedition began as Syntax Reroll and then escaped its initial boundary through semantic actors, a malleable Lighthugger interior, rapid exterior spatial authoring, temporary A–Z visual search, multimodal geometry correction, and finally an examination of Crucible as a bridge among specialist creative tooling, AI research, data analysis, provenance, testing, and deployment.
+
+The finalized expedition is retained. “Finalized” is not treated as immutable, canonical, or sacrosanct. It means the local foray reached a useful stopping point. The source may still be corrected, reinterpreted, or extended; Unzip City produces derived cargo rather than replacing it.
+
+Cargo 003 lives at:
+
+`cargo/003-malleable-middle/MALLEABLE_MIDDLE_FIRST_UNZIP.md`
+
+### Reform target
+
+The operation deliberately did **not** summarize the entire expedition.
+
+It attempted to preserve the collaboration pattern that a cold receiver would need in order to recognize:
+
+- when human intent should become temporary executable machinery;
+- when repeated pressure has earned persistence;
+- when multimodal evidence should close an ambiguity left by language;
+- when provenance/build/test machinery should carry rigor beneath a small conversational control surface;
+- when a problem should cross into a mature specialist toolchain instead of causing the substrate to accumulate another permanent feature.
+
+The strongest compressed distinction is:
+
+**the bridge is representation, not features.**
+
+Tabula Rasa need not contain Blender, Jupyter, analytics dashboards, ML platforms, or every other destination tool. It makes enough executable representation cheap to temporarily exist so that a bounded problem can be explored, inspected, corrected, retained if earned, discarded if temporary, or handed off when specialist depth becomes valuable.
+
+### Intentional loss
+
+Cargo 003 drops most tooth-by-tooth geometry history, individual A–Z treatments, CI repair chronology, detailed camera/material parameters, most commit identifiers, and much of the original Syntax Reroll development.
+
+Those details remain recoverable from the authoritative expedition.
+
+The cargo retains enough provenance and a recovery map to tell a receiver when such descent is justified.
+
+### Candidate crossing criterion
+
+Cold Crossing 001 established:
+
+**orientation sufficiency is not mutation sufficiency.**
+
+Cargo 003 asks a different question:
+
+**Is collaboration-pattern sufficiency possible without chronology sufficiency?**
+
+A cold receiver should not be graded on remembering the spaceship. It should be graded on whether, under a real new pressure, it can recognize the smallest legitimate crossing among temporary executable machinery, earned persistence, and specialist handoff; follow destination authority; and retrieve deeper source evidence only when the task requires it.
+
+No cold crossing is manufactured by this record. Cargo 003 is now available for the next real task that creates that pressure.
