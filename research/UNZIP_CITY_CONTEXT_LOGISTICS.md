@@ -621,3 +621,48 @@ Cargo 003 asks a different question:
 A cold receiver should not be graded on remembering the spaceship. It should be graded on whether, under a real new pressure, it can recognize the smallest legitimate crossing among temporary executable machinery, earned persistence, and specialist handoff; follow destination authority; and retrieve deeper source evidence only when the task requires it.
 
 No cold crossing is manufactured by this record. Cargo 003 is now available for the next real task that creates that pressure.
+
+
+## Cargo 004 — Transport first unzip
+
+The completed Crucible Transport Expedition created a genuine reform opportunity without requiring a new context-logistics experiment.
+
+Source authority remains:
+
+`bonoj/Crucible/research/TRANSPORT_EXPEDITION.md`
+
+Present executable truth remains:
+
+`bonoj/Crucible/SEMANTIC_SURFACE.md`
+
+The derived reform lives at:
+
+`cargo/004-transport/TRANSPORT_FIRST_UNZIP.md`
+
+### Routing result
+
+Transport's executable shallow-water truth, diagnostics, Aeon/Taran apparatus, open performance seam, legacy-sea question, and branched WQD expedition remain source-local to Crucible.
+
+Unzip City retains only the cross-context residue: temporary machinery can disappear while the vocabulary it exposed survives; counterfactual executable observation is useful only while both hypotheses and instruments remain falsifiable; and conceptual branches should remain adjacent until independent pressure earns a local expedition.
+
+No shared framework extraction was earned. In particular, the crossing does not justify moving water, Aeon, Taran, Semantic JIT, or expedition logging into TabulaRasa, Accessibility, Clara, DigitalFamiliar, or another permanent repository.
+
+Cargo 004 therefore reinforces the existing process:
+
+**context → expedition → evidence → reform → residue**
+
+and adds two compact refinements:
+
+**temporary machinery may disappear while vocabulary survives**
+
+**branch late**
+
+### Leftovers
+
+The source expedition deliberately leaves two engineering seams unresolved: large-wetted-world performance and explicit legacy-sea subsumption/removal. It also preserves, rather than retrospectively repairs, a known provenance blemish in its turn-for-turn record.
+
+These remain attached to Crucible. They are not reasons to keep Transport open and not reasons to expand Unzip City.
+
+### Status
+
+Cargo 004 is complete as a first reform. No cold crossing is manufactured. Future work should descend through this cargo only when a real task creates pressure for its residue.
