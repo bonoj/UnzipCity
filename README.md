@@ -26,6 +26,10 @@ The first expedition is now closed. Its strongest result is not a new context fo
 
 That later pressure has now arrived as **Cargo 003**: a deliberately lossy reform of Crucible's finalized Malleable Middle expedition. Rather than preserving its full chronology, Cargo 003 tests whether the earned collaboration pattern can cross cold: temporary executable machinery, earned persistence, multimodal correction, provenance beneath a small human control surface, and specialist handoff without turning Tabula Rasa into an accumulation of destination tools.
 
+Cargo 004 later reformed Crucible's Transport expedition, preserving only cross-context residue while leaving physical machinery and unresolved engineering seams source-local.
+
+Cargo 005 now captures a new pressure exposed by Semantic Tinkering: **working context may itself have consequential resolution**. A receiver may begin from a coarse truthful orientation, selectively inpaint one semantic region when attention demands it, then compact outward while preserving the consequence of what deeper evidence changed. The open question is whether reformation after retrieval can become as cheap and reliable as selective descent.
+
 Future expeditions should remain local to the context that creates them. Unzip City can stay quiet between genuine crossings; reform material here only when a later context creates a context-logistics question worth testing.
 
 Do not turn this README into a substitute for the expedition record.
