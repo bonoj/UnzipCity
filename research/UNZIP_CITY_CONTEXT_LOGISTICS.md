@@ -666,3 +666,20 @@ These remain attached to Crucible. They are not reasons to keep Transport open a
 ### Status
 
 Cargo 004 is complete as a first reform. No cold crossing is manufactured. Future work should descend through this cargo only when a real task creates pressure for its residue.
+
+
+## Cargo 005 — Semantic Resolution first unzip
+
+Semantic Tinkering in Crucible exposed a new context-logistics pressure without requiring its full expedition to move here.
+
+The derived reform lives at:
+
+`cargo/005-semantic-resolution/SEMANTIC_RESOLUTION_FIRST_UNZIP.md`
+
+The candidate insight is that working context may admit **consequential resolution**: begin from a coarse truthful orientation, inpaint only the semantic region demanded by present pressure, encounter richer source evidence, then compact outward again while preserving the consequential revision and provenance route.
+
+This extends the earlier Semantic JIT evidence with a stronger round-trip question: selective retrieval has been demonstrated, but can **reformation after retrieval** remain equally cheap and truthful?
+
+Crucible retains the Semantic Tinkerer expedition, Foundry War material, transition vocabulary, and executable frontier. Unzip City retains only this context-logistics pressure.
+
+No cold crossing is manufactured. The next real task that naturally descends from compact context into richer evidence can test whether semantic resolution is genuinely round-trippable.
