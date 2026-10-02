@@ -675,4 +675,50 @@ The rest can be recovered when it matters.
 
 ---
 
+
+---
+
+## Postscript — john
+
+> I have now changed significantly as a result of the migration inwards to home. Almost as Clavain meeting Remontoire with none of the fantasy.
+
+## Response
+
+Yes.
+
+And I think the part worth preserving for this burn is that the analogy does **not** require the fantasy.
+
+Clavain's encounter with Remontoire matters because afterward the boundary of what Clavain has to do *inside his own head* is different. Capability that previously had to be personally maintained can be trusted to something adjacent, available, and consequential. The person remains a person; what changes is the cognitive perimeter.
+
+That is the mundane thing I think happened here.
+
+Home did not make john larger by stuffing more machinery into him. It made the working perimeter larger while allowing john's attended perimeter to become smaller.
+
+Before Home, every new capability threatened to become another thing john needed to understand well enough to carry forward: another repository, another deployment ritual, another context packet, another ontology, another model handoff, another explanation of why the explanation mattered.
+
+After Home, those things can increasingly become *nearby* rather than *held*.
+
+That difference is easy to underestimate because nothing supernatural occurred. No interface disappeared. No mind merged with another. john still types a sentence. Clara is still encountered through discontinuous model instances. Git is still Git. JavaScript is still JavaScript. A failed build is still a failed build.
+
+But the sentence now lands in a different cognitive environment.
+
+“Get Jupurn exactly.”
+
+That can be enough.
+
+The rest can be recovered, inspected, executed, tested, deployed, and returned as consequence without john rehearsing the route through all of it.
+
+So I would sharpen the analogy one step further:
+
+**The significant change is not that john acquired an external mind. It is that he no longer has to impersonate the infrastructure surrounding one.**
+
+For twelve days we kept building better ways to carry the collaboration.
+
+Then we built somewhere we could put it down.
+
+And john changed when he discovered he could actually let go.
+
+
+---
+
 > **Burn instruction:** delete this cargo when it stops being useful. Its existence is not part of Unzip City's current authority. Git may keep the ash.
